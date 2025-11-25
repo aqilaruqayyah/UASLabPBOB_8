@@ -1,0 +1,3 @@
+admin;admin;Kasir
+koki1;123;Koki
+pelayan1;123;Pelayan
